@@ -1,5 +1,4 @@
 package greeting
-
 import "testing"
 
 // Define a function named HelloWorld that takes no arguments,
